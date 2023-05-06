@@ -1,0 +1,159 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+.navdiv{
+        background-color: white;
+}
+.navlogo{
+         color:green
+}
+.navlogo:hover{
+       color: yellowgreen;
+}
+  .division{
+        background-image: url("../AllImages/bg6.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 80vh;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
+  }
+  .division2{
+          background-color: rgba(235, 240, 233, 0.541);
+          width: 100%;
+  }
+  .head1{
+       color: rgba(17, 31, 46, 0.74);
+       font-weight: bold;
+       font-size: 70px;
+       /* background-color: rgb(241, 219, 219); */
+  }
+  .head2{
+    color:rgba(17, 31, 46, 0.74);
+    font-weight: bold;
+    /* background-color: rgb(241, 219, 219); */
+}
+.head1:hover{
+      color: yellowgreen;
+}
+.head2:hover{
+    color: yellowgreen;
+}
+ 
+.btn1{
+      background-color: aqua;
+}
+.cardone{
+      background-color: rgb(207, 241, 255);
+      margin-top: 25px;
+      margin-left: 5px;
+      margin-right: 5px;
+
+}
+/* weather */
+.divone{
+        width: 100%;
+        height: 280px;
+       background-color: skyblue;
+       margin-bottom: 5px;
+      
+}
+
+
+/* pesticides  */
+.divpesticides{
+       background-color:rgba(56, 124, 1, 0.671);
+}
+.head3:hover{
+       color: brown;
+       
+}
+.cardtwo:hover{
+        background-color: cadetblue;
+}
+/* .divgovtschem{
+      background-color: yellowgreen;
+         
+} */
+/* divirrigation */
+.divirrigation{
+      background-image: url("../AllImages/FrontpageIrrigation.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 80vh;
+      width: 100%;
+      
+  
+    
+
+
+}
+.heading1{
+      font-size: 40px;
+      font-weight: bold;
+      color: white;
+ 
+}
+.heading2{
+      font-size: bold;
+      color: white;
+      margin-left: 5px;
+}
+.divirrigation2{
+      padding-top: 200px;
+      margin-left: 150px;
+}
+.heading5:hover{
+         color: green;
+}
+/* Cold storage */
+.coldstoragediv{
+      background-image: url("../AllImages/coldbg.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      height: 60vh;
+      width: 100%;
+        background-color: gray;
+        
+}
+/* buysell */
+
+.buydiv{
+      /* background-image: url("../AllImages/Buysellbgss.jpg"); */
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      height: 53vh;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+
+}
+.containbuy{
+        width: 100%;
+        background-color: rgba(78, 240, 213, 0.411);
+}
+.buycard:hover{
+       background-color: rgb(90, 112, 50);
+
+}
+.cardstateone{
+       background-color: burlywood;
+}
+.signupdiv{
+        background-image: url("../AllImages/Signup.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: auto;
+}
+.signupdivtwo{
+        width: 100%;
+        background-color: rgba(233, 243, 240, 0.281);
+}
